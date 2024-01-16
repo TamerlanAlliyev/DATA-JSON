@@ -1,0 +1,36 @@
+{
+    "products": [
+       {
+        "id": 1,
+        "brand": "Ralph Lauren",
+        "product-category": "clothing" ,
+        "product-name": "t-shirt" ,
+        "size": ["m","l","xl"],
+        "color": "blue",
+        "price": 450,
+        "discount-offer" : true,
+        "discount": 50 ,
+        "image":[
+            "assets/images/products/ralph-lauren.jpg",
+            "assets/images/products/jacket.jpg"
+        ],
+        "description": "Klassik yaxalı qısaqol polo"
+       },
+       {
+        "id": 2,
+        "brand": "Versace",
+        "product-category": "clothing" ,
+        "product-name": "jacket" ,
+        "size": ["s","m","l","xl"],
+        "color": "blue",
+        "price": 2925,
+        "discount-offer" : false,
+        "discount": 0 ,
+        "image":[
+            "assets/images/products/versace/jacket-one-1.jpeg",
+            "assets/images/products/versace/jacket-one-2.jpeg"
+        ],
+        "description": "Loqo naxışlı uzunqol kardiqan"
+       }
+    ]
+}
