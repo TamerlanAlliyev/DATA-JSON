@@ -16,8 +16,27 @@
         ],
         "description": "Klassik yaxalı qısaqol polo"
        },
+
        {
+
         "id": 2,
+        "brand": "Ralph Lauren",
+        "product-category": "clothing" ,
+        "product-name": "t-shirt" ,
+        "size": ["xs","s","m","xl"],
+        "color": "blue",
+        "price": 235,
+        "discount-offer" : true,
+        "discount": 70 ,
+        "image":[
+            "assets/images/products/ralph-lauren/t-shirt-two-1.jpeg",
+            "assets/images/products/ralph-lauren/t-shirt-two-2.jpeg"
+        ],
+        "description": "Dairəvi yaxa ilə qısaqol T-shirt"
+       },
+
+       {
+        "id": 3,
         "brand": "Versace",
         "product-category": "clothing" ,
         "product-name": "jacket" ,
