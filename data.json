@@ -2,7 +2,8 @@
     "products": [
         {
             "id": 1,
-            "brand": "Ralph Lauren",
+            "brand": "ralph-lauren",
+            "brandTitle": "ralph-lauren",
             "productCategory": "clothing",
             "productName": "t-shirt",
             "title": "ralph-lauren-t-shirt",
@@ -27,6 +28,7 @@
         {
             "id": 2,
             "brand": "Ralph Lauren",
+            "brandTitle": "ralph-lauren",
             "productCategory": "clothing",
             "productName": "t-shirt",
             "title": "ralph-lauren-t-shirt",
@@ -50,6 +52,7 @@
         {
             "id": 3,
             "brand": "Versace",
+            "brandTitle": "versace",
             "productCategory": "clothing",
             "productName": "jacket",
             "title": "versace-jacket",
